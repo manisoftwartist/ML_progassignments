@@ -1,0 +1,4 @@
+# Several files with this name are added by octave inside the code folders.need to ignore
+*/octave-core
+# Temporary files left by gedit
+*.m~
